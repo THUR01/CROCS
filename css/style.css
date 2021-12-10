@@ -1,0 +1,1417 @@
+.all {
+    height: 100%;
+    position: absolute;
+    left: 50%;
+    margin: 0 0 0 -925px;
+    opacity: 50%;
+}
+
+.img {
+    width: 100%;
+    height: 100%;
+}
+
+.imgJ {
+    display: block;
+    margin: 0 auto;
+}
+
+.greenback {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(205, 208, 67);
+}
+
+.tree{
+    width: 630.36px;
+    height: 772.2px;
+    position: absolute;
+    left: 50%;
+    bottom: 89px;
+    margin: 0 0 0 -312.18px;
+}
+
+.typoL {
+    width: 22.23px;
+    height: 660.15px;
+    position: absolute;
+    top: 198px;
+    left: 50%;
+    margin: 0 0 0 -702.1px;
+}
+
+.typoR {
+    width: 46.63px;
+    height: 556.27px;
+    position: absolute;
+    top: 117px;
+    right: 50%;
+    margin: 0 -708.315px 0 0;
+}
+
+.logo {
+    width: 420.93px;
+    height: 75.01px;
+    position: absolute;
+    top: 90px;
+    left: 50%;
+    margin: 0 0 0 -710.1px;
+}
+
+.jibBox {
+    width: 127.06px;
+    height: 127.27px;
+    position: absolute;
+    bottom: 187px;
+    right: 4%;
+    margin: 0 117.685px 0 0;
+    z-index: 2;
+}
+
+.jibBoxblur {
+    width: 127.06px;
+    height: 127.27px;
+    position: absolute;
+    bottom: 187px;
+    right: 4%;
+    margin: 0 119.685px 0 0;
+    backdrop-filter: blur(17px);
+    border-radius: 20%;
+}
+
+.jibBox_u {
+    width: 13.91px;
+    height: 12.05px;
+    position: absolute;
+    bottom: 244px;
+    right: 4%;
+    margin: 0 92.685px 0 0;
+    transform: rotate(90deg);
+}
+
+.jibBox_d {
+    width: 13.91px;
+    height: 12.05px;
+    position: absolute;
+    bottom: 244px;
+    right: 4%;
+    margin: 0 257.685px 0 0;
+    transform: rotate(90deg);
+}
+
+.click_u {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    bottom: 235px;
+    right: 4%;
+    margin: 0 85px 0 0;
+}
+
+.click_d {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    bottom: 235px;
+    right: 4%;
+    margin: 0 250px 0 0;
+}
+
+.dotContainer {
+    transform: rotate(90deg);
+    position: absolute;
+    bottom: -91px;
+    right: 502px;
+}
+
+@keyframes dot {
+    0% {
+        width: 4.26px;
+        height: 4.26px;
+    }
+    100% {
+        width: 6.26px;
+        height: 6.26px;
+    }
+}
+
+.jibDot_10 {
+    width: 4.26px;
+    height: 4.26px;
+    position: absolute;
+    bottom: 307px;
+    right: 4%;
+    margin: 0 258.685px 0 0;
+    animation-name: none;
+    animation-duration: 0.5s;
+    animation-iteration-count: 1;
+    transform-origin: center center;
+    animation-fill-mode: forwards
+    
+}
+
+.jibDot_9 {
+    width: 4.26px;
+    height: 4.26px;
+    position: absolute;
+    bottom: 294px;
+    right: 4%;
+    margin: 0 258.685px 0 0;
+    animation-name: none;
+    animation-duration: 0.5s;
+    animation-iteration-count: 1;
+    transform-origin: center center;
+    animation-fill-mode: forwards
+    
+}
+
+.jibDot_8 {
+    width: 4.26px;
+    height: 4.26px;
+    position: absolute;
+    bottom: 281px;
+    right: 4%;
+    margin: 0 258.685px 0 0;
+    animation-name: none;
+    animation-duration: 0.5s;
+    animation-iteration-count: 1;
+    transform-origin: center center;
+    animation-fill-mode: forwards
+}
+
+.jibDot_7 {
+    width: 4.26px;
+    height: 4.26px;
+    position: absolute;
+    bottom: 268px;
+    right: 4%;
+    margin: 0 258.685px 0 0;
+    animation-name: none;
+    animation-duration: 0.5s;
+    animation-iteration-count: 1;
+    transform-origin: center center;
+    animation-fill-mode: forwards
+}
+
+.jibDot_6 {
+    width: 4.26px;
+    height: 4.26px;
+    position: absolute;
+    bottom: 255px;
+    right: 4%;
+    margin: 0 258.685px 0 0;
+    animation-name: none;
+    animation-duration: 0.5s;
+    animation-iteration-count: 1;
+    transform-origin: center center;
+    animation-fill-mode: forwards
+}
+
+.jibDot_5 {
+    width: 4.26px;
+    height: 4.26px;
+    position: absolute;
+    bottom: 241px;
+    right: 4%;
+    margin: 0 258.685px 0 0;
+    animation-name: none;
+    animation-duration: 0.5s;
+    animation-iteration-count: 1;
+    transform-origin: center center;
+    animation-fill-mode: forwards
+}
+
+.jibDot_4 {
+    width: 4.26px;
+    height: 4.26px;
+    position: absolute;
+    bottom: 228px;
+    right: 4%;
+    margin: 0 258.685px 0 0;
+    animation-name: none;
+    animation-duration: 0.5s;
+    animation-iteration-count: 1;
+    transform-origin: center center;
+    animation-fill-mode: forwards
+}
+
+.jibDot_3 {
+    width: 4.26px;
+    height: 4.26px;
+    position: absolute;
+    bottom: 215px;
+    right: 4%;
+    margin: 0 258.685px 0 0;
+    animation-name: none;
+    animation-duration: 0.5s;
+    animation-iteration-count: 1;
+    transform-origin: center center;
+    animation-fill-mode: forwards
+}
+
+.jibDot_2 {
+    width: 4.26px;
+    height: 4.26px;
+    position: absolute;
+    bottom: 202px;
+    right: 4%;
+    margin: 0 258.685px 0 0;
+    animation-name: none;
+    animation-duration: 0.5s;
+    animation-iteration-count: 1;
+    transform-origin: center center;
+    animation-fill-mode: forwards
+}
+
+.jibDot_1 {
+    width: 4.26px;
+    height: 4.26px;
+    position: absolute;
+    bottom: 189px;
+    right: 4%;
+    margin: 0 258.685px 0 0;
+    animation-name: none;
+    animation-duration: 0.5s;
+    animation-iteration-count: 1;
+    transform-origin: center center;
+    animation-fill-mode: forwards
+}
+
+.heart_1 {
+    width: 278.7px;
+    height: 292.17px;
+    position: absolute;
+    bottom: 101px;
+    left: 50%;
+    margin: 0 0 0 -549.1px;
+    animation-name: heart_1;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    transition: all ease-in-out;
+    transform-origin: bottom center;
+}
+
+@keyframes heart_1 {
+    0% {
+        width: 278.7px;
+        height: 292.17px;
+    }
+    50% {
+        width: 288.7px;
+        height: 303.17px;
+    }
+    0% {
+        width: 278.7px;
+        height: 292.17px;
+    }
+}
+
+.heart_2 {
+    width: 204.26px;
+    height: 192.49px;
+    position: absolute;
+    top: 245px;
+    left: 50%;
+    margin: 0 0 0 -382.1px;
+    animation-name: heart_2;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    transition: all ease-in-out;
+}
+
+@keyframes heart_2 {
+    0% {
+        top: 245px;
+        left: 50%;
+    }
+    35% {
+        top: 319px;
+        left: 51%;
+    }
+    100% {
+        top: 245px;
+        left: 50%;
+    }
+}
+
+.heart_3 {
+    width: 161.85px;
+    height: 211.96px;
+    position: absolute;
+    bottom: 134px;
+    right: 50%;
+    margin: 0 -359.1px 0 0;
+    animation-name: heart_3;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    transition: all ease-in-out;
+}
+
+@keyframes heart_3 {
+    0% {
+        bottom: 134px;
+        right: 50%;
+    }
+    50% {
+        bottom: 154px;
+        right: 50.5%;
+    }
+    0% {
+        bottom: 134px;
+        right: 50%;
+    }
+}
+
+.spotlight {
+    width: 1862.18px;
+    height: 964.9px;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    margin: 0 0 0 -931.09px;
+}
+
+.floor {
+    width: 1851.68px;
+    height: 103.66px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.star_1 {
+    width: 160.07px;
+    height: 134.98px;
+    position: absolute;
+    bottom: 318px;
+    left: 50%;
+    margin: 0 0 0 -733.1px;
+    animation-name: starA;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
+.star_2 {
+    width: 133.46px;
+    height: 137.17px;
+    position: absolute;
+    top: 224px;
+    left: 50%;
+    margin: 0 0 0 -550.1px;
+    animation-name: starB;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
+.star_3 {
+    width: 152.88px;
+    height: 125.58px;
+    position: absolute;
+    top: 151px;
+    right: 50%;
+    margin: 0 -473.1px 0 0;
+    animation-name: starA;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
+.star_4 {
+    width: 113.62px;
+    height: 137.16px;
+    position: absolute;
+    top: 387px;
+    right: 50%;
+    margin: 0 -657.1px 0 0;
+    animation-name: starB;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
+
+@keyframes starA {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0.3;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes starB {
+    0% {
+        opacity: 0.3;
+    }
+    50% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0.3;
+    }
+}
+
+@keyframes starC {
+    0% {
+        opacity: 1;
+    }
+    30% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0.3;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.lights {
+    width: 932.35px;
+    height: 649.88px;
+    position: absolute;
+    left: 50%;
+    bottom: 108px;
+    margin: 0 0 0 -276.74px;
+    animation-name: lights;
+    animation-duration: 0.7s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes lights {
+    0% {
+        opacity: 1;
+        filter: brightness(110%);
+    }
+    20%{
+        opacity: 1;
+        filter: brightness(110%);
+    }
+    50% {
+        opacity: 0.5;
+    }
+    80%{
+        opacity: 1;
+        filter: brightness(110%);
+    }
+    100% {
+        opacity: 1;
+        filter: brightness(110%);
+    }
+}
+
+
+
+.typoF {
+    width: 753.22px;
+    height: 33.29px;
+    position: absolute;
+    bottom: 35px;
+    left: 50%;
+    margin: 0 0 0 -375.61px;
+}
+
+.message_1{
+    width: 352px;
+    height: 136px;
+    position: absolute;
+    left: 50%;
+    top: 62px;
+    margin: 0 0 0 -175.5px;
+    animation-name: message;
+    animation-duration: 1.2s;
+    animation-iteration-count: 3;
+    animation-fill-mode: backwards;
+    transition: all ease-in-out;
+}
+
+.message_2{
+    width: 321px;
+    height: 110px;
+    position: absolute;
+    left: 50%;
+    top: 75px;
+    margin: 0 0 0 -161.5px;
+    animation-name: message;
+    animation-duration: 1.5s;
+    animation-iteration-count: 2;
+    animation-fill-mode: backwards;
+}
+
+@keyframes message{
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0.3;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.hole {
+    width: 499.28px;
+    height: 555.26px;
+    position: absolute;
+    left: 50%;
+    bottom: 201px;
+    margin: 0 0 0 -208.64px;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.clickhole_1 {
+    width: 78.71px;
+    height: 68.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 705px;
+    margin: 0 0 0 -74.85px;
+}
+
+.clickhole_2 {
+    width: 78.71px;
+    height: 68.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 639px;
+    margin: 0 0 0 -153.85px;
+}
+
+.clickhole_3 {
+    width: 78.71px;
+    height: 68.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 637px;
+    margin: 0 0 0 4.15px;
+}
+
+.clickhole_4 {
+    width: 78.71px;
+    height: 68.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 571px;
+    margin: 0 0 0 -73.85px;
+}
+
+.clickhole_5 {
+    width: 78.71px;
+    height: 68.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 513px;
+    margin: 0 0 0 -151.85px;
+}
+
+.clickhole_6 {
+    width: 78.71px;
+    height: 68.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 516px;
+    margin: 0 0 0 3.1500000000000057px;
+}
+
+.clickhole_7 {
+    width: 78.71px;
+    height: 68.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 516px;
+    margin: 0 0 0 151.15px;
+}
+
+.clickhole_8 {
+    width: 78.71px;
+    height: 68.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 449px;
+    margin: 0 0 0 -230.85px;
+}
+
+.clickhole_9 {
+    width: 78.71px;
+    height: 68.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 448px;
+    margin: 0 0 0 -75.85px;
+}
+
+.clickhole_10 {
+    width: 78.71px;
+    height: 68.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 448px;
+    margin: 0 0 0 77.15px;
+}
+
+.clickhole_11 {
+    width: 78.71px;
+    height: 68.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 379px;
+    margin: 0 0 0 -152.85px;
+
+}
+
+.clickhole_12 {
+    width: 78.71px;
+    height: 68.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 379px;
+    margin: 0 0 0 2.1500000000000057px;
+}
+
+.clickhole_13 {
+    width: 78.71px;
+    height: 68.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 380px;
+    margin: 0 0 0 158.15px;
+}
+
+.clickhole_14 {
+    width: 78.71px;
+    height: 68.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 314px;
+    margin: 0 0 0 -229.85000000000002px;
+}
+
+.clickhole_15 {
+    width: 78.71px;
+    height: 68.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 314px;
+    margin: 0 0 0 -75.85px;
+}
+
+.clickhole_16 {
+    width: 78.71px;
+    height: 68.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 314px;
+    margin: 0 0 0 78.15px;
+}
+
+.clickhole_17 {
+    width: 78.71px;
+    height: 68.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 314px;
+    margin: 0 0 0 234.15px;
+}
+
+.clickhole_18 {
+    width: 78.71px;
+    height: 68.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 246px;
+    margin: 0 0 0 1.1500000000000057px;
+}
+
+.clickhole_19 {
+    width: 78.71px;
+    height: 68.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 181px;
+    margin: 0 0 0 -76.85px;
+}
+
+.clickhole_20 {
+    width: 78.71px;
+    height: 68.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 183px;
+    margin: 0 0 0 79.15px;
+}
+
+.holeimg_1 {
+    width: 107.71px;
+    height: 86.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 697px;
+    margin: 0 0 0 -88.85px;
+}
+
+.holeimg_2 {
+    width: 107.71px;
+    height: 86.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 633px;
+    margin: 0 0 0 -168.85px;
+}
+
+.holeimg_3 {
+    width: 107.71px;
+    height: 86.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 633px;
+    margin: 0 0 0 -13.85px;
+}
+
+.holeimg_4 {
+    width: 107.71px;
+    height: 86.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 563px;
+    margin: 0 0 0 -88.85px;
+}
+
+.holeimg_5 {
+    width: 107.71px;
+    height: 86.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 506px;
+    margin: 0 0 0 -166.85px;
+}
+
+.holeimg_6 {
+    width: 107.71px;
+    height: 86.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 507px;
+    margin: 0 0 0 -14.849999999999994px;
+}
+
+.holeimg_7 {
+    width: 107.71px;
+    height: 86.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 508px;
+    margin: 0 0 0 140.15px;
+}
+
+.holeimg_8 {
+    width: 107.71px;
+    height: 86.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 441px;
+    margin: 0 0 0 -245.85px;
+}
+
+.holeimg_9 {
+    width: 107.71px;
+    height: 86.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 442px;
+    margin: 0 0 0 -91.85px;
+}
+
+.holeimg_10 {
+    width: 107.71px;
+    height: 86.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 438px;
+    margin: 0 0 0 64.15px;
+}
+
+.holeimg_11 {
+    width: 107.71px;
+    height: 86.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 372px;
+    margin: 0 0 0 -166.85px;
+}
+
+.holeimg_12 {
+    width: 107.71px;
+    height: 86.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 372px;
+    margin: 0 0 0 -12.849999999999994px;
+}
+
+.holeimg_13 {
+    width: 107.71px;
+    height: 86.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 373px;
+    margin: 0 0 0 143.15px;
+}
+
+.holeimg_14 {
+    width: 107.71px;
+    height: 86.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 307px;
+    margin: 0 0 0 -244.85000000000002px;
+}
+
+.holeimg_15 {
+    width: 107.71px;
+    height: 86.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 308px;
+    margin: 0 0 0 -90.85px;
+}
+
+.holeimg_16 {
+    width: 107.71px;
+    height: 86.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 307px;
+    margin: 0 0 0 64.15px;
+}
+
+.holeimg_17 {
+    width: 107.71px;
+    height: 86.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 308px;
+    margin: 0 0 0 218.15px;
+}
+
+.holeimg_18 {
+    width: 107.71px;
+    height: 86.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 240px;
+    margin: 0 0 0 -12.849999999999994px;
+}
+
+.holeimg_19 {
+    width: 107.71px;
+    height: 86.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 173px;
+    margin: 0 0 0 -89.85px;
+}
+
+.holeimg_20 {
+    width: 107.71px;
+    height: 86.67px;
+    position: absolute;
+    left: 50%;
+    bottom: 177px;
+    margin: 0 0 0 64.15px;
+}
+
+.clickComplete {
+    width: 111px;
+    height: 111px;
+    position: absolute;
+    top: 162px;
+    left: 50%;
+    margin: 0 0 0 -55.5px;
+}
+
+.cursorJib {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    z-index: 5;
+}
+
+.jibthing_6 {
+    width: 82.73px;
+    height: 83.46px;
+    position: absolute;
+    bottom: 100px;
+    right: 100px;
+}
+
+.jibthing_7 {
+    width: 71.69px;
+    height: 86.67px;
+    position: absolute;
+    bottom: 100px;
+    right: 100px;
+}
+
+.jib_1 {
+    width: 82.73px;
+    height: 83.46px;
+}
+
+.jib_2 {
+    width: 71.69px;
+    height: 86.67px;
+}
+
+.jib_3 {
+    width: 74.89px;
+    height: 79.06px;
+}
+
+.jib_4 {
+    width: 49.58px;
+    height: 80.74px;
+    position: absolute;
+    right: 25px;
+    top: 2px;
+}
+
+.jib_5 {
+    width: 49.58px;
+    height: 80.74px;
+    position: absolute;
+    right: 25px;
+    top: 2px;
+}
+
+.jib_6 {
+    width: 61.28px;
+    height: 74.49px;
+}
+
+.jib_7 {
+    width: 61.28px;
+    height: 74.49px;
+}
+
+.jib_8 {
+    width: 107.71px;
+    height: 71.34px;
+    position: absolute;
+    top: 10px;
+    right: -24px;
+}
+
+.jib_9 {
+    width: 64.29px;
+    height: 63.38px;
+    position: absolute;
+    right: 20px;
+    top: 9px;
+}
+
+.jib_10 {
+    width: 57.25px;
+    height: 73.99px;
+}
+
+.cjib_1 {
+    width: 82.73px;
+    height: 83.46px;
+}
+
+.cjib_2 {
+    width: 71.69px;
+    height: 86.67px;
+}
+
+.cjib_3 {
+    width: 74.89px;
+    height: 79.06px;
+}
+
+.cjib_4 {
+    width: 49.58px;
+    height: 80.74px;
+}
+
+.cjib_5 {
+    width: 49.58px;
+    height: 80.74px;
+}
+
+.cjib_6 {
+    width: 61.28px;
+    height: 74.49px;
+}
+
+.cjib_7 {
+    width: 61.28px;
+    height: 74.49px;
+}
+
+.cjib_8 {
+    width: 107.71px;
+    height: 71.34px;
+}
+
+.cjib_9 {
+    width: 64.29px;
+    height: 63.38px;
+}
+
+.cjib_10 {
+    width: 57.25px;
+    height: 73.99px;
+}
+
+.owl-carousel {
+    width: 119.06px;
+    height: 108.27px;
+    position: absolute;
+    bottom: 198px;
+    right: 4%;
+    margin: 0 121.685px 0 0;
+}
+
+.owl-carousel .owl-stage-outer {
+    height: 120px;
+    position: relative;
+    overflow: hidden;
+    transform: translate3d(0px, 0px, 0px);
+}
+
+.jibchoice_1 {
+    width: 92.06px;
+    height: 93.27px;
+    position: absolute;
+    right: 14px;
+    top: 9px;
+}
+.jibchoice_2 {
+    width: 81.06px;
+    height: 96.27px;
+    position: absolute;
+    right: 22px;
+    top: 7px;
+}
+.jibchoice_3 {
+    width: 84.06px;
+    height: 89.27px;
+    position: absolute;
+    top: 11px;
+    left: 16px;
+}
+.jibchoice_4{
+    width: 59.06px;
+    height: 90.27px;
+    position: absolute;
+    right: 31px;
+    top: 7px;
+}
+.jibchoice_5 {
+    width: 59.06px;
+    height: 90.27px;
+    position: absolute;
+    right: 31px;
+    top: 7px;
+}
+.jibchoice_6 {
+    width: 71.06px;
+    height: 84.27px;
+    position: absolute;
+    right: 25px;
+    top:11px;
+}
+.jibchoice_7 {
+    width: 71.06px;
+    height: 84.27px;
+    position: absolute;
+    right: 25px;
+    top: 11px;
+}
+.jibchoice_8 {
+    width: 117.06px;
+    height: 81.27px;
+    position: absolute;
+    right: 1px;
+    top: 17px;
+}
+.jibchoice_9 {
+    width: 74.06px;
+    height: 73.27px;
+    position: absolute;
+    right: 24px;
+    top: 17px;
+}
+.jibchoice_10 {
+    width: 67.06px;
+    height: 83.27px;
+    position: absolute;
+    right: 28px;
+    top: 11px;
+}
+
+.choicebox {
+    width: 127.06px;
+    height: 127.27px;
+    position: absolute;
+    bottom: 187px;
+    right: 4%;
+    margin: 0 117.685px 0 0;
+    backdrop-filter: blur(12px);
+    border-radius: 20%;
+    z-index: 1;
+}
+
+.Clkchoicebox {
+    width: 127.06px;
+    height: 127.27px;
+    position: absolute;
+    bottom: 187px;
+    right: 4%;
+    margin: 0 117.685px 0 0;
+    border-radius: 20%;
+    z-index: 4;
+    cursor: pointer;
+}
+
+.message_0 {
+    width: 144px;
+    height: 127px;
+    position: absolute;
+    bottom: 183px;
+    right: 4%;
+    margin: 0 108.685px 0 0;
+    z-index: 3;
+    animation-name: message;
+    animation-duration: 1s;
+    animation-iteration-count: 2;
+    animation-fill-mode: backwards;
+}
+
+.merry {
+    position: absolute;
+    top: 348px;
+    right: 350px;
+    stroke-dasharray: 1180;
+    stroke-dashoffset: 1180;
+    animation-name: none;
+    animation-fill-mode: forwards;
+    animation-iteration-count: 1;
+    animation-duration: 3s;
+    transition: all ease-in;
+}
+
+@keyframes merry {
+    0% {
+        stroke-dasharray: 1180;
+    }
+    100% {
+        stroke-dasharray: 2340;
+    }
+}
+
+.christmas {
+    position: absolute;
+    top: 496px;
+    right: 152px;
+    stroke-dasharray: 1680;
+    stroke-dashoffset: 1680;
+    animation-name: none;
+    animation-fill-mode: forwards;
+    animation-iteration-count: 1;
+    animation-duration: 6s;
+    transition: all ease-in;
+}
+
+@keyframes christmas {
+    40% {
+        stroke-dasharray: 1680;
+    }
+    100% {
+        stroke-dasharray: 3325;
+    }
+}
+
+.i_dot {
+    position: absolute;
+    top: 530px;
+    right: 409px;
+    stroke-dasharray: 30;
+    stroke-dashoffset: 30;
+    animation-name: none;
+    animation-fill-mode: forwards;
+    animation-iteration-count: 1;
+    animation-duration: 6.5s;
+    transition: all ease-in;
+}
+
+@keyframes i_dot {
+    85% {
+        stroke-dasharray: 30;
+    }
+    100% {
+        stroke-dasharray: 55;
+    }
+}
+
+.t_line {
+    position: absolute;
+    top: 526px;
+    right: 299px;
+    stroke-dasharray: 90;
+    stroke-dashoffset: 90;
+    animation-name: none;
+    animation-fill-mode: forwards;
+    animation-iteration-count: 1;
+    animation-duration: 7s;
+    transition: all ease-in;
+}
+
+@keyframes t_line {
+    90% {
+        stroke-dasharray: 90;
+    }
+    100% {
+        stroke-dasharray: 170;
+    }
+}
+
+.bang_l {
+    position: absolute;
+    top: 528px;
+    right: 121px;
+    stroke-dasharray: 45;
+    stroke-dashoffset: 45;
+    animation-name: none;
+    animation-fill-mode: forwards;
+    animation-iteration-count: 1;
+    animation-duration: 7.3s;
+    transition: all ease-in;
+}
+
+@keyframes bang_l {
+    88% {
+        stroke-dasharray: 45;
+    }
+    100% {
+        stroke-dasharray: 89;
+    }
+}
+
+.bang_d {
+    position: absolute;
+    top: 584px;
+    right: 140px;
+    stroke-dasharray: 9;
+    stroke-dashoffset: 9;
+    animation-name: none;
+    animation-fill-mode: forwards;
+    animation-iteration-count: 1;
+    animation-duration: 8s;
+    transition: all ease-in;
+}
+
+@keyframes bang_d {
+    92% {
+        stroke-dasharray: 9;
+    }
+    100% {
+        stroke-dasharray: 11;
+    }
+}
+
+.backlight_1 {
+    width: 1842.01px;
+    height: 1118.81px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    animation-name: backlight_1;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+    animation-duration: 0.5s;
+    transition: all ease-in;
+}
+
+@keyframes backlight_1 {
+    0% {
+        opacity: 1;
+        filter: brightness(110%);
+    }
+    25%{
+        opacity: 1;
+        filter: brightness(110%);
+    }
+    26%{
+        opacity: 0.8;
+        filter: brightness(100%);
+    }
+    75% {
+        opacity: 0.8;
+        filter: brightness(100%);
+    }
+    76% {
+        opacity: 1;
+        filter: brightness(110%);
+    }
+    100% {
+        opacity: 1;
+        filter: brightness(110%);
+    }
+}
+
+.backlight_2 {
+    width: 1845.3px;
+    height: 1121.78px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    animation-name: backlight_2;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+    animation-duration: 0.5s;
+    transition: all ease-in;
+}
+
+@keyframes backlight_2 {
+    0% {
+        opacity: 0.8;
+        filter: brightness(100%);
+    }
+    25%{
+        opacity: 0.8;
+        filter: brightness(100%);
+    }
+    26%{
+        opacity: 1;
+        filter: brightness(110%);
+    }
+    75% {
+        opacity: 1;
+        filter: brightness(110%);
+    }
+    76% {
+        opacity: 0.8;
+        filter: brightness(100%);
+    }
+    100% {
+        opacity: 0.8;
+        filter: brightness(100%);
+    }
+}
+
+.copyright {
+    position: absolute;
+    bottom: 20;
+    left: 25;
+    font-size: 12px;
+    opacity: 0.25;
+    color: aliceblue;
+}
